@@ -1,1 +1,1 @@
-my first readme script
+my first readme
